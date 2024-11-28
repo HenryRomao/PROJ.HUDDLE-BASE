@@ -1,0 +1,23 @@
+@media (max-width: 1023px) {
+    body {
+        background-image: url(../Img/fundo-mobile.svg);
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+
+    .home {
+        display: inline-block;
+    }
+
+    .home .illustration img {
+        width: 100%;
+    }
+
+    .home .description {
+        text-align: center;
+    }
+
+    .medias {
+        justify-content: center;
+    }
+}

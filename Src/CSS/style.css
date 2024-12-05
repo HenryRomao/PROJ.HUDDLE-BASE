@@ -48,7 +48,7 @@ body {
     cursor: pointer;
 }
 
-.home .description .button:hover {
+.home .description a .button:hover {
     background-color: hsl(300, 69%, 71%);
     color: white;
     transition: 0.4s;

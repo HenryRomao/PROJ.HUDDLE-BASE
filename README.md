@@ -26,6 +26,21 @@ Também tive um pouco de trabalho na responsividade e novamente fui salvo pelos 
 
 grato!😊
 
+## Como Utilizar. 👨‍💻
+
+Clone com o projeto:
+```
+git clone https://github.com/HenryRomao/PROJ.HUDDLE-BASE.git
+```
+
+Acesse a pasta do projeto:
+```
+cd PROJ. HUDDLE-BASE 
+```
+
+Bom estudo. 🍀
+
+
 ## Tecnologias utilizadas. 
 - HTML
 - CSS

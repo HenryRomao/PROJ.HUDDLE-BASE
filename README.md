@@ -20,11 +20,9 @@ Este desafio está disponível no site Frontend mentor, a partir dele foi realiz
 ]
 
 ## Meus desafios no processo. 🤯
-Acabei tendo um pouco de dificuldade na hora de codar as Font Awesome, não conseguia alterar a seta do mouse para uma mãozinha, e na estilização de profunfidade do botão, mas seguindo meus resumos rapidamente resolvi.
+Acabei tendo um pouco de dificuldade na hora de codar as Font Awesome, não conseguia alterar o cursor do mouse ao interagir com as fontes e botao, e na estilização de profunfidade do botão e também, me confundi ao colocar borda e estilizar as font awesome, mas seguindo meus resumos rapidamente resolvi.
 
-Também tive um pouco de trabalho na responsividade e novamente fui salvo pelos resumos, ainda assim, a versão para Macbook Air não ficou muito boa, pois a imagem de fundo do site não preencheu um pedaço final da tela nesta versão, as outras versões ficaram excelentes.
-
-E por fim, não tinha certeza se a tela deveria ou não scrollar. 
+Também tive um pouco de trabalho na responsividade e novamente fui salvo pelos resumos, as outras versões ficaram excelentes.
 
 grato!😊
 

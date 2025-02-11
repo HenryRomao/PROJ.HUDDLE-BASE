@@ -5,18 +5,18 @@ Projeto do curso DEV EM DOBRO para avaliação com um arquivo README. Realizado 
 
 💻- Segue a imagem prévia do projeto, versão desktop com botões e fontes devendo ter click.
 
-[<img src="./Src/Img/preview-page state.jpg" alt="imagem inicial prévia do HUDDLE BASE.">]
+[<img src="./Src/Img/preview-page-state.jpg" alt="Imagem inicial prévia do HUDDLE BASE.">]
 
 Este desafio está disponível no site Frontend mentor, a partir dele foi realizado este projeto para avaliação.
 
 💻- Visualização final do projeto realizado.
 
-[ <img src="./Src/Img/gif-Huddle Base.gif" alt="gif projeto HUDDLE BADE.">
+[ <img src="./Src/Img/huddle-base.gif" alt="Gif projeto HUDDLE BADE.">
 ]
 
 📱- Visualização final do projeto em mobile.
 
-[<img src="./Src/Img/mobile-versions.gif" alt="gif versões dispositivos moveis">
+[<img src="./Src/Img/huddle-base-mobile-versions.gif" alt="Gif versões dispositivos moveis">
 ]
 
 ## Meus desafios no processo. 🤯

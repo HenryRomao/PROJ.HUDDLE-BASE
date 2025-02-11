@@ -4,6 +4,9 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
     font-family: 'Open Sans';
+    height: 100vh;
+    width: 1345px;
+    margin: 0 auto;
 }
 .logo {
     width: 300px;
@@ -56,36 +59,47 @@ body {
 
 .medias {
     display: flex;
+    flex-direction: row;
     justify-content: end;
+    text-decoration: none;
     padding: 40px 60px;
+}
+
+.fa-facebook-f {
+    font-size: 25px;
+    margin: 10px 10px;
     color: white;
+    border: solid;
+    padding: 7px 12px;
+    border-radius: 50%;
 }
 
-.fa-facebook {
-    font-size: 30px;
-    margin-right: 20px;
-}
-
-
-.fa-facebook:hover {
+.fa-facebook-f:hover {
     color: hsl(300, 69%, 71%);
     transition: 0.4s;
-    cursor: pointer;
 }
 
 .fa-twitter {
-    font-size: 30px;
-    margin-right: 20px
+    font-size: 25px;
+    margin: 10px 10px;
+    color: white;
+    border: solid;
+    padding: 7px 7px;
+    border-radius: 50%;
 }
 
 .fa-twitter:hover {
     color: hsl(300, 69%, 71%);
     transition: 0.5s;
-    cursor: pointer;
 }
 
 .fa-instagram {
-    font-size: 30px;
+    font-size: 25px;
+    margin: 10px 10px;
+    color: white;
+    border: solid;
+    padding: 6px 8px;
+    border-radius: 50%;
 }
 
 .fa-instagram:hover {

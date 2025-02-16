@@ -35,7 +35,7 @@ git clone https://github.com/HenryRomao/PROJ.HUDDLE-BASE.git
 
 Acesse a pasta do projeto:
 ```
-cd PROJ. HUDDLE-BASE 
+cd PROJ.HUDDLE-BASE 
 ```
 
 Bom estudo. 🍀
